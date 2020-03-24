@@ -1,1 +1,1 @@
-https://samusniko.github.io/singolo/index
+https://samusniko.github.io/singolo/
