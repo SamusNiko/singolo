@@ -1,2 +1,1 @@
-# singolo
-singolo
+https://samusniko.github.io/singolo/index
